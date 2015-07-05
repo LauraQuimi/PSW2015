@@ -1,4 +1,4 @@
 <?php
-    echo "Hola Mmundo ";
+    echo "Hola Mmundo* ";
     phpinfo();
 ?>
