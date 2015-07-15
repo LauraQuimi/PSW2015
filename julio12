@@ -1,0 +1,188 @@
+    1  cd /
+    2  cd /var/www/html
+    3  ls -all
+    4  cd ProyectoPrueba
+    5  pwd
+    6  history > julio2
+    7  more julio2
+    8  more index.html
+    9  nano index.html
+   10  cd /
+   11  pwd
+   12  sudo apt-get install -y git-core
+   13  which git
+   14  sudo apt-get install ssh openssh-client
+   15  ssh-keygen -t rsa
+   16  ~/.ssh/id_rsa.pub
+   17  sudo ~/.ssh/id_rsa.pub
+   18  ~/.ssh/id_rsa.pub
+   19  pwd
+   20  sudo laura
+   21  ~/.ssh/id_rsa.pub
+   22  wget -qO -https://toolbelt.heroku.com/install-ubuntu.sh |sh
+   23  wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh |sh
+   24  cd /var/www/html
+   25  pwd
+   26  l
+   27  ls -all
+   28  mkdir prueba
+   29  cd prueba
+   30  cd ..
+   31  ls -all
+   32  cd prueba
+   33  cd /
+   34  pw
+   35  pwd
+   36  cd ~/.
+   37  pws
+   38  pwd
+   39  heroku login
+   40  ssh-keygen -t rsa
+   41  heroku keys:add
+   42  cd /var/www/html
+   43  pwd
+   44  cd prueba
+   45  git init
+   46  nano index.php
+   47  git add.
+   48  git add .
+   49  git status
+   50  git config --global user.email "laura_quimi@hotmail.com"
+   51  git config --global user.name "norma"
+   52  git commit -m "hola mundo"
+   53  git pull
+   54  git status
+   55  git pull
+   56  git status
+   57  cd ..
+   58  pw
+   59  ls -all
+   60  cd PSW2015
+   61  pwd
+   62  git init
+   63  more index.html
+   64  cd ..
+   65  git status
+   66  cd prueba
+   67  pwd
+   68  ls -all
+   69  nano index.php
+   70  git init
+   71  git add .
+   72  git config --global user.email "laura_quimi@hotmail.com"
+   73  git config --global user.name "norma"
+   74  git commit -m "hola mundo"
+   75  git pull
+   76  git status
+   77  more .gitignore
+   78  pwd
+   79  more index.php
+   80  cd index.php ../.
+   81  cd ..
+   82  cd PSW2015
+   83  cp ../prueba/index.php
+   84  cp ../prueba/index.php index.php
+   85  ls -all
+   86  git init
+   87  more index.php
+   88  git status
+   89  git add .
+   90  git config --global user.email "laura_quimi@hotmail.com"
+   91  git config --global user.name "norma"
+   92  git commit -m "hola mundo"
+   93  git status
+   94  git pull
+   95  git push
+   96  pwd
+   97  cd ..
+   98  pwd
+   99  ls -all
+  100  cd PSW2015
+  101  ls -all
+  102  mv ProyectoSalud ../.
+  103  ls -all
+  104  cd .
+  105  cd ..
+  106  pwd
+  107  ls -all
+  108  cd ProyectoSalud
+  109  pwd
+  110  ls -all
+  111  more index.php
+  112  more ejemplo2
+  113  more contactoChimbo.php
+  114  cd ..
+  115  ls -all
+  116  cd PSW2015
+  117  ls -all
+  118  git checkout master
+  119  cd ..
+  120  cd /
+  121  pwd
+  122  exit
+  123  pwd
+  124  heroku create
+  125  git push heroku master
+  126  cd /var/www/htlm
+  127  cd /var/www
+  128  cd html
+  129  pwwd
+  130  ls -all
+  131  cd PSW2015
+  132  heroku create
+  133  git push heroku master
+  134  git push keroku master
+  135  cd ..
+  136  ls -all
+  137  cd ProyectoPrueba
+  138  ls -all
+  139  more .git
+  140  git push heroku master
+  141  cd ..
+  142  pwd
+  143  cd html
+  144  heroku open
+  145  ls -all
+  146  cd PSW2015
+  147  heroku open
+  148  cd PSW2015
+  149  git init
+  150  ls -all
+  151  git add .
+  152  git config --global user.email "laura_quimi@hotmail.com"
+  153  git config --global user.name "norma"
+  154  git status
+  155  git commit -m "hola mundo1"
+  156  git pull
+  157  git push
+  158  heroku open
+  159  pwd
+  160  ls -all
+  161  cd /etc
+  162  pwd
+  163  ls -all |more
+  164  ls g*
+  165  ls -all g*
+  166  ls -all g* |more
+  167  ls -all |more
+  168  nano gitconfig
+  169  cd /var/www/html
+  170  pwd
+  171  ls -all
+  172  cd PSW2015
+  173  Pwd
+  174  pwd
+  175  ls -all
+  176  rm git
+  177  EXIT
+  178  exit
+  179  cd PSW2015
+  180  pwd
+  181  cd PSW2015
+  182  ls
+  183  cd /var/www/
+  184  cd html
+  185  ls
+  186  cd PSWS2015
+  187  cd PSW2015
+  188  history>julio12
